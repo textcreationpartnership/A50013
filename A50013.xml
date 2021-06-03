@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Romes ABC, being a short perambvlation, or, Rather articvlar accvsation of a late tyrannicall oppressour with a petition to the Archbishop of Canterbury now prisoner in the tower.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50013</idno><idno type="EEBO-CITATION">12768627</idno>
+  <idno type="VID">93619</idno>
+  <idno type="EEBO-PROQUEST">2240959764</idno>
+  
+            <idno type="STC">Wing L95</idno>
+            <idno type="STC">ESTC R429</idno>
+            <idno type="OCLC">12768627</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A50013)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93619)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 253:E156, no 15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Romes ABC, being a short perambvlation, or, Rather articvlar accvsation of a late tyrannicall oppressour with a petition to the Archbishop of Canterbury now prisoner in the tower.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.]</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Woodcut port. on t.p.</note>
+                  <note>The initials at the end, "W. L. ABC" which are William Laud's, Archbishop of Canterbury, have sometimes been mistaken as the author's initials.</note>
+                  <note>A satire upon Archbishop Laud.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Laud, William, 1573-1645 --  Anecdotes</term>
+               <term type="geographic_name">Great Britain --  Religion --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:93619:1"/>
+            <pb facs="tcp:93619:1"/>
+            <p>Romes A B C, BEING A SHORT PERAMBVLATION, OR RATHER ARTICVLAR ACCVSATION Of a late tyrannicall Oppressour.</p>
+            <p>
+               <hi>WITH A Petition to the Archbishop of Canterbu<g ref="char:EOLhyphen"/>ry, now prisoner in the Tower.</hi>
+            </p>
+            <figure>
+               <figDesc>woodcut of William Laud, Archbishop of Canterbury</figDesc>
+            </figure>
+            <p>
+               <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:93619:2"/>
+            <pb n="1" facs="tcp:93619:2"/>
+            <head>Romes <hi>A B C,</hi> Being A SHORT PERAMBVLATION <hi>Or rather</hi> ARTICULAR ACCUSATION, OF a late Tyrannicall OPPRESSOR.</head>
+            <p>
+               <hi>A B C,</hi>
+            </p>
+            <p>
+               <seg rend="decorInit">W</seg>HAT may these three letters signi<g ref="char:EOLhyphen"/>fie? Surely they can make no sense, or rather <hi>nocens,</hi> which is a word full of damage: Suppose it were A Bishop, Climbing as high as one which I know in England, who is forced to have a Keeper, for feare of falling. He is one which lo<g ref="char:EOLhyphen"/>ved to see men civill, which surely was the reason he so much endeavoured to subvert the funda<g ref="char:EOLhyphen"/>mentall Laws. Seeing, I have taken an occasion to speake of A B C, give mee leave to perambulate, great A, great B, great C; great Archbishop, little Bishop, great Canterbury; he which at this time I shall speake of, loved judgement with all his
+<pb n="2" facs="tcp:93619:3"/>heart, but it must not bee true by any meanes, if threatning can prevaile: he loved mony well, but that best which came by ship, witnesse the case of ship-mony; he was a Merchant venturer, but his chiefe trafficke was in justice, which he sold by whole sale in the high Commission Court.</p>
+            <p>Of all signes at a Taverne he loved the Myter best, as for the Crowne he little regarded it, ex<g ref="char:EOLhyphen"/>cept it were for his particular gaine.</p>
+            <p>He was a very religious man, and he loved prai<g ref="char:EOLhyphen"/>er very well, so as there were but a long antheme in it; but as for sermons, it went against his con<g ref="char:EOLhyphen"/>science to heare above one a weeke, and that must not be above the space of an houre neither, for feare of a puritanicall censure.</p>
+            <p>But where is he now for his owne safety? as the Papists say, Towred up, and nothing more grieves him, but that he can have no confabulation with his hakney Jesuit and Papist, how the affaires go with his reverend Father at Rome; he feares ve<g ref="char:EOLhyphen"/>ry much that the reconcilement betwixt England and it, by no manner of meanes will go forward.</p>
+            <p>He should have been a wise man, for he loved few words, which was the reason sure, that he put so many good Ministers to silence.</p>
+            <p>He loved the Church of Rome and France so well, that he could not indure in London to see a Protestant which came out of either of their Countries.</p>
+            <pb n="3" facs="tcp:93619:3"/>
+            <p>Weight and measure he loved of all things, but especially of patent Tobacco, the smoke of which most do hope shortly will choak him.</p>
+            <p>Of all fashions he could not indure the Scotch Bonnet, why? because they could never brook his foure corner cap, which some hope shortly to bee transformed into a three corner one, which will be triangular.</p>
+            <p>Of all proof he hated Parliament proofe worst, which was the reason hee had so bad a stomacke unto Parliamentary proceedings.</p>
+            <p>Two places long time expected his presence, the one Canterbury Cathedrall, the other Lam<g ref="char:EOLhyphen"/>beth Pulpit, which was the onely place <hi>Archy</hi> would choose to keepe out of his clutches; my preambulation had not beene briefe, but that joy<g ref="char:EOLhyphen"/>full newes came unto me, that his Physitian said he could not live long, the signe being in neck and throat, wherefore I conclude my Romish A B C, skipping some of the crosse-row, I intended to have spoke of O and L but T would not permit me.</p>
+            <div type="part">
+               <pb n="4" facs="tcp:93619:4"/>
+               <head>Great Prince of Prelacy, or to write in a humble straine Vice Admirall of most admired mischiefe.</head>
+               <p>WE humbly desire your <hi>Don</hi> Gracious, now little Honourable Lordship, to condescend to be willing to grant the meek petition of a com<g ref="char:EOLhyphen"/>pany not long since silenced persons, the string of whose tongues which were tied, are lately cut and loosed by a skilfull Physitian, by name called Par<g ref="char:EOLhyphen"/>liament. Charitable we know you are, else why so long did you joine Englands red Crosse to Romes high soaring spread Eagle? to which a long time we supposed you bowed unto. But to come to the purpose.</p>
+               <p>First, we your once meeke slaves by the reason of your late tyrannicall bonds, doe beseech your Grace (now Towred up) no longer to catch hold by the hornes of Romes Altar, for we assure you that time which lately was abused Altar-wise, is now altered: at which wee suppose the Pope not to triumph, nor your selfe at Lambeth feasting for joy: Alas who can helpe it! although your sor<g ref="char:EOLhyphen"/>rowes be exprest with exclamations, no man will so farre dive into the Stygian streame of danger to helpe you: as for the Popes Bull it dares not venter into England for feare of a bloudy baiting:
+<pb n="5" facs="tcp:93619:4"/>if you want a Confessor, truely you must borrow leave of your Keeper to follow the Jesuits and Friers which are lately packed towards Rome.</p>
+               <p>Secondly, wee desire your Lordship now at length to grow humble; but what need wee peti<g ref="char:EOLhyphen"/>tion that? insomuch as long since wee know you were so; else what was the meaning of your so lowly bowing?</p>
+               <p>Thirdly, wee petition your Honour upon Sab<g ref="char:EOLhyphen"/>bath daies not to walke abroad too much; the zeal which you owe to Lambeth Church, be sure you pay it to the Tower Chappell.</p>
+               <p>Fourthly, have a care of your lawne sleeves, lest unawares they chance for to choake you.</p>
+               <p>Fiftly, forget not the teares of the pillory, which for want of order from you a long time hath stood forlorne.</p>
+               <p>Sixtly, we desire your honour, not to bee for<g ref="char:EOLhyphen"/>getfull of your mortality, which wee thinke you should not, your chamber having so faire a pros<g ref="char:EOLhyphen"/>spect towards Tower-hill.</p>
+               <p>Seventhly and lastly, wee desire your Honour not to be offended at sh<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ubs of mortality, whose sole desire is to scale the Tower of your affecti<g ref="char:EOLhyphen"/>on, and to bee placed nigh the Cherubin of your devotion: your bosome friend being sent as Em<g ref="char:EOLhyphen"/>bassador to the Popes holinesse, to intreat his par<g ref="char:EOLhyphen"/>don for the little graces which a long time lay hid in the bundell of your superstitious cogitations.</p>
+               <pb n="6" facs="tcp:93619:5"/>
+               <p>
+                  <hi>This is the petition of a company of poore cinders which a long time lay raked up in the ashes of desola<g ref="char:EOLhyphen"/>tion, nd at length are burst out into a flame to consume the Romish bush which was planted by a Metropolitan Gardiner whose name these letters will easily inter<g ref="char:EOLhyphen"/>pret to your Honour.</hi>
+               </p>
+               <closer>
+                  <signed>W. L. ABC.</signed>
+               </closer>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
